@@ -1,5 +1,6 @@
 // concatenation of array problem  - leetcode         
 // difficulty level - easy
+// using stl vector
  
 class Solution {
 public:
